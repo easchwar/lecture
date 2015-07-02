@@ -9,5 +9,6 @@ end
 
 
 def new_stuff
+  "new"
   
 end
