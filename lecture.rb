@@ -1,3 +1,3 @@
 def teach_the_students
-  "top score!"
+  "you stink!"
 end
